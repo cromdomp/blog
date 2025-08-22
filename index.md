@@ -1,6 +1,8 @@
 ﻿---
 layout: home
-title: the crybaby house (my blog)
+title: the crybaby house
 list_title: Posts
 ---
+
+
 

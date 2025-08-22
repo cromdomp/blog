@@ -7,3 +7,4 @@ categories: misc
 
 Drafts live in `_drafts/` and are not published on GitHub Pages.
 When ready, move to `_posts/` and rename to `YYYY-MM-DD-your-title.md`.
+
