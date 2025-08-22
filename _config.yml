@@ -1,4 +1,4 @@
-﻿title: "My Blog"
+﻿title: "the crybaby house"
 email: ""
 description: ""
 baseurl: "/blog"
@@ -11,3 +11,4 @@ header_pages:
   - about.md
 
 github_username: cromdomp
+
