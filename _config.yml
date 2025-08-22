@@ -1,0 +1,13 @@
+﻿title: "My Blog"
+email: ""
+description: ""
+baseurl: "/blog"
+url: "https://cromdomp.github.io"
+theme: minima
+plugins:
+  - jekyll-feed
+
+header_pages:
+  - about.md
+
+github_username: cromdomp
